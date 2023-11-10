@@ -51,6 +51,6 @@ flags: Параметр із зображенням та параметрами 
 
 
 # Робота програми
-Як працює програма ви можете подивитися [тут](https://drive.google.com/file/d/1pFNM3XBbAuQtEbunyRchS9NwQWWOsGDk/view?usp=sharing)
+Як працює програма ви можете подивитися [тут](https://drive.google.com/file/d/1pFNM3XBbAuQtEbunyRchS9NwQWWOsGDk/view?usp=sharing).
 На цьому відео показано як програма на відео знаходить лиця.
 Відео залишу в дерикторії.
